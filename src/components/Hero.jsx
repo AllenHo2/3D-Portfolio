@@ -21,10 +21,9 @@ const Hero = () => {
             and websites
           </p>
         </div>
-
-
-        <ComputersCanvas />
       </div>
+
+      <ComputersCanvas />
     </section>
   )
 }
